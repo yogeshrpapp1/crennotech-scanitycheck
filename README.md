@@ -1,1 +1,0 @@
-# crennotech-scanitycheck
